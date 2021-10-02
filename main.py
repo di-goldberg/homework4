@@ -1,0 +1,9 @@
+A='Darya'
+B='Shabalina'
+C=2003
+print(A,'_',B,'_',C)
+D=A
+A=B
+B=D
+C+=60
+print(A,'_',B,'_',C)
